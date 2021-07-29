@@ -25,14 +25,14 @@ class User:
         self._email = new_email
 
     def __str__(self):
-        return f'{type(self).__name__}: {self.first_name}, {self.last_name}, {self.email}'
+        return f'{self.name}'
 
 
-u = User("Marcin", "K", "a+@a.pl")
-print(u.name)
-u.first_name = "Janusz"
-print(u.name)
-print(u)
+# u = User("Marcin", "K", "a+@a.pl")
+# print(u.name)
+# u.first_name = "Janusz"
+# print(u.name)
+# print(u)
 # u.name = "elo"
 # "pawel@gmail.com"
 # "pawel+python@gmail.com"

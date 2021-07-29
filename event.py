@@ -1,5 +1,7 @@
 from datetime import datetime, timedelta
 
+from user import User
+
 
 class Event:
     def __init__(self, title, start_date, duration, localization, owner):
@@ -11,11 +13,21 @@ class Event:
 
     def __str__(self):
         return f'{type(self).__name__}: title: {self.title}, start_date: {self.start_date},' \
-                f'duration: {self.duration}'
+                f'duration: {self.duration}, localization: {self.localization}, owner: {self.owner}'
 
     def __repr__(self):
         return f'{type(self).__name__}(title="{self.title}", start_date="{self.start_date}",' \
                 f'duration="{self.duration}", localization="{self.localization}", owner="{self.owner}")'
+
+    @property
+    def owner(self):
+        return self._owner
+
+    @owner.setter
+    def owner(self, new_owner):
+        if not isinstance(new_owner, User):
+            raise TypeError(f'Incorrect user type: {new_owner}')
+        self._owner = new_owner
 
     @property
     def start_date(self):
@@ -38,7 +50,7 @@ class Event:
         self._duration = value
 
 
-# e = Event(title="browarek", start_date=datetime(2021, 7, 27), duration=12, localization="Krakow", owner="Marcin")
+e = Event(title="browarek", start_date=datetime(2021, 7, 27), duration=12, localization="Krakow", owner="Marcin")
 # e.start_date = datetime(2022, 8, 29)
 # e.duration = 15
 # print(e.duration)
