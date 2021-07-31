@@ -21,9 +21,9 @@ class Meeting(Event):
             self._members = new_members
 
 
-owner = User("Marcin", "K", "a+@a.pl")
-m = Meeting(title="browarek", start_date=datetime(2021, 5, 5), duration=60, localization="Krakow", owner="Marcin",
-            members=['Ala', 'John', 'Ula'])
-
-print(m)
-print(repr(m))
+# owner = User("Marcin", "K", "a+@a.pl")
+# m = Meeting(title="browarek", start_date=datetime(2021, 5, 5), duration=60, localization="Krakow", owner="Marcin",
+#             members=['Ala', 'John', 'Ula'])
+#
+# print(m)
+# print(repr(m))

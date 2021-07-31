@@ -50,7 +50,7 @@ class Event:
         self._duration = value
 
 
-e = Event(title="browarek", start_date=datetime(2021, 7, 27), duration=12, localization="Krakow", owner="Marcin")
+# e = Event(title="browarek", start_date=datetime(2021, 7, 27), duration=12, localization="Krakow", owner="Marcin")
 # e.start_date = datetime(2022, 8, 29)
 # e.duration = 15
 # print(e.duration)
