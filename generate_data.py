@@ -14,10 +14,10 @@ class GenerateData:
 
     def generate_user_data(self):
         return {
-                'first_name': random.choice(self.first_name),
-                'last_name': random.choice(self.last_name),
-                'email': random.choice(self.email)
-            }
+            'first_name': random.choice(self.first_name),
+            'last_name': random.choice(self.last_name),
+            'email': random.choice(self.email)
+        }
 
     def generate_meeting_data(self):
         return {
@@ -45,16 +45,15 @@ class GenerateData:
                 'meetings': [],
                 'workshop': []
             }
-            for no in range(1, amount + 1):
+            for _ in range(1, amount + 1):
                 data['meetings'].append(self.generate_meeting_data())
                 data['workshop'].append(self.generate_workshop_data())
 
-            json.dump(data, file)
+            json.dump(data, file)  # dump - data serialization
 
     @staticmethod
     def load_data():
         with open('data.json', 'r') as file:
-
             return json.load(file)
 
 
@@ -92,4 +91,3 @@ c.generate_data(30)
 #         }
 #     ]
 # }
-

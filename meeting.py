@@ -22,8 +22,8 @@ class Meeting(Event):
 
 
 # owner = User("Marcin", "K", "a+@a.pl")
-# m = Meeting(title="browarek", start_date=datetime(2021, 5, 5), duration=60, localization="Krakow", owner="Marcin",
-#             members=['Ala', 'John', 'Ula'])
-#
+# m = Meeting(title="browarek", start_date=datetime(2021, 12, 5), duration=60, localization="Krakow", owner=owner,
+#             members=["Marcin", "K", "a+@a.pl"])
+
 # print(m)
 # print(repr(m))
