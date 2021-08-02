@@ -26,8 +26,8 @@ for workshop in data['workshop']:
     start_date = datetime.strptime(workshop['start_date'], '%Y-%m-%d %H:%M:%S.%f')
     m.add_event(Workshop(workshop['title'], start_date, int(workshop['duration']), workshop['localization'], owner, trainer))
 
-pp(str(m))
-pp(repr(m))
+# pp(str(m))
+# pp(repr(m))
 # print(m == eval(repr(m)))
 for item in m:
     print(item)
