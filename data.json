@@ -2,532 +2,197 @@
   "meetings": [
     {
       "title": "browarek",
-      "start_date": "2021-08-10 00:11:11.989790",
-      "localization": "krk",
-      "duration": 371,
+      "start_date": "2021-08-17 11:12:05.206701",
+      "localization": "wro",
+      "duration": 4490,
       "owner": [
         {
           "first_name": "Andrzej",
-          "last_name": "K",
-          "email": "a@a.pl"
+          "last_name": "Z",
+          "email": "d@d.pl"
         }
       ],
       "members": [
         {
-          "first_name": "Damian",
+          "first_name": "Pawel",
+          "last_name": "Z",
+          "email": "a@a.pl"
+        },
+        {
+          "first_name": "Pawel",
           "last_name": "Z",
           "email": "a@a.pl"
         },
         {
           "first_name": "Damian",
           "last_name": "Z",
-          "email": "d@d.pl"
-        },
-        {
-          "first_name": "Andrzej",
-          "last_name": "D",
-          "email": "a@a.pl"
-        },
-        {
-          "first_name": "Damian",
-          "last_name": "K",
           "email": "p@p.pl"
         }
       ]
     },
     {
       "title": "browarek",
-      "start_date": "2021-08-10 01:12:11.989790",
-      "localization": "krk",
-      "duration": 9680,
+      "start_date": "2021-08-17 15:01:05.206701",
+      "localization": "wro",
+      "duration": 5355,
       "owner": [
         {
-          "first_name": "Damian",
-          "last_name": "Z",
-          "email": "a@a.pl"
+          "first_name": "Andrzej",
+          "last_name": "K",
+          "email": "p@p.pl"
         }
       ],
       "members": [
         {
           "first_name": "Pawel",
-          "last_name": "K",
-          "email": "d@d.pl"
-        },
-        {
-          "first_name": "Damian",
-          "last_name": "K",
+          "last_name": "D",
           "email": "a@a.pl"
         },
         {
           "first_name": "Andrzej",
-          "last_name": "D",
+          "last_name": "Z",
           "email": "p@p.pl"
+        },
+        {
+          "first_name": "Andrzej",
+          "last_name": "D",
+          "email": "a@a.pl"
         }
       ]
     },
     {
-      "title": "wodeczka",
-      "start_date": "2021-08-05 16:08:11.989790",
+      "title": "conieco",
+      "start_date": "2021-08-20 04:29:05.206701",
       "localization": "waw",
-      "duration": 1886,
+      "duration": 4961,
       "owner": [
         {
-          "first_name": "Pawel",
-          "last_name": "Z",
-          "email": "p@p.pl"
+          "first_name": "Andrzej",
+          "last_name": "D",
+          "email": "a@a.pl"
         }
       ],
       "members": [
         {
-          "first_name": "Damian",
+          "first_name": "Andrzej",
+          "last_name": "D",
+          "email": "d@d.pl"
+        },
+        {
+          "first_name": "Pawel",
           "last_name": "Z",
           "email": "a@a.pl"
         },
         {
-          "first_name": "Damian",
-          "last_name": "Z",
-          "email": "p@p.pl"
-        },
-        {
-          "first_name": "Andrzej",
-          "last_name": "D",
-          "email": "p@p.pl"
-        },
-        {
-          "first_name": "Damian",
-          "last_name": "Z",
-          "email": "d@d.pl"
-        },
-        {
-          "first_name": "Damian",
-          "last_name": "Z",
+          "first_name": "Pawel",
+          "last_name": "K",
           "email": "d@d.pl"
         }
       ]
     },
     {
       "title": "wodeczka",
-      "start_date": "2021-08-06 14:01:11.989790",
-      "localization": "wro",
-      "duration": 9018,
-      "owner": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "D",
-          "email": "p@p.pl"
-        }
-      ],
-      "members": [
-        {
-          "first_name": "Pawel",
-          "last_name": "K",
-          "email": "p@p.pl"
-        }
-      ]
-    },
-    {
-      "title": "wodeczka",
-      "start_date": "2021-08-08 21:56:11.989790",
-      "localization": "wro",
-      "duration": 9935,
-      "owner": [
-        {
-          "first_name": "Damian",
-          "last_name": "D",
-          "email": "d@d.pl"
-        }
-      ],
-      "members": [
-        {
-          "first_name": "Damian",
-          "last_name": "K",
-          "email": "d@d.pl"
-        },
-        {
-          "first_name": "Damian",
-          "last_name": "Z",
-          "email": "d@d.pl"
-        },
-        {
-          "first_name": "Andrzej",
-          "last_name": "Z",
-          "email": "d@d.pl"
-        },
-        {
-          "first_name": "Damian",
-          "last_name": "Z",
-          "email": "p@p.pl"
-        },
-        {
-          "first_name": "Andrzej",
-          "last_name": "D",
-          "email": "p@p.pl"
-        }
-      ]
-    },
-    {
-      "title": "browarek",
-      "start_date": "2021-08-10 11:14:11.989790",
-      "localization": "wro",
-      "duration": 9957,
-      "owner": [
-        {
-          "first_name": "Damian",
-          "last_name": "D",
-          "email": "p@p.pl"
-        }
-      ],
-      "members": [
-        {
-          "first_name": "Pawel",
-          "last_name": "K",
-          "email": "p@p.pl"
-        },
-        {
-          "first_name": "Andrzej",
-          "last_name": "Z",
-          "email": "d@d.pl"
-        },
-        {
-          "first_name": "Pawel",
-          "last_name": "K",
-          "email": "a@a.pl"
-        },
-        {
-          "first_name": "Damian",
-          "last_name": "D",
-          "email": "a@a.pl"
-        },
-        {
-          "first_name": "Andrzej",
-          "last_name": "Z",
-          "email": "a@a.pl"
-        }
-      ]
-    },
-    {
-      "title": "browarek",
-      "start_date": "2021-08-11 01:37:11.989790",
+      "start_date": "2021-08-18 18:31:05.206701",
       "localization": "krk",
-      "duration": 5158,
+      "duration": 8945,
       "owner": [
         {
-          "first_name": "Andrzej",
+          "first_name": "Pawel",
           "last_name": "Z",
           "email": "d@d.pl"
         }
       ],
       "members": [
         {
-          "first_name": "Damian",
-          "last_name": "D",
-          "email": "a@a.pl"
-        },
-        {
           "first_name": "Pawel",
-          "last_name": "D",
-          "email": "d@d.pl"
-        },
-        {
-          "first_name": "Andrzej",
           "last_name": "K",
           "email": "a@a.pl"
+        },
+        {
+          "first_name": "Damian",
+          "last_name": "D",
+          "email": "p@p.pl"
         }
       ]
     },
     {
       "title": "browarek",
-      "start_date": "2021-08-10 06:01:11.989790",
+      "start_date": "2021-08-21 00:17:05.206701",
+      "localization": "wro",
+      "duration": 9399,
+      "owner": [
+        {
+          "first_name": "Damian",
+          "last_name": "Z",
+          "email": "a@a.pl"
+        }
+      ],
+      "members": [
+        {
+          "first_name": "Andrzej",
+          "last_name": "K",
+          "email": "a@a.pl"
+        },
+        {
+          "first_name": "Damian",
+          "last_name": "D",
+          "email": "p@p.pl"
+        },
+        {
+          "first_name": "Pawel",
+          "last_name": "K",
+          "email": "p@p.pl"
+        }
+      ]
+    },
+    {
+      "title": "conieco",
+      "start_date": "2021-08-23 05:19:05.206701",
       "localization": "waw",
-      "duration": 9696,
+      "duration": 2469,
       "owner": [
         {
           "first_name": "Damian",
-          "last_name": "K",
-          "email": "d@d.pl"
+          "last_name": "D",
+          "email": "p@p.pl"
         }
       ],
       "members": [
         {
-          "first_name": "Andrzej",
-          "last_name": "Z",
-          "email": "a@a.pl"
-        },
-        {
-          "first_name": "Pawel",
-          "last_name": "Z",
-          "email": "p@p.pl"
+          "first_name": "Damian",
+          "last_name": "K",
+          "email": "d@d.pl"
         },
         {
           "first_name": "Damian",
-          "last_name": "K",
-          "email": "a@a.pl"
-        },
-        {
-          "first_name": "Pawel",
-          "last_name": "K",
+          "last_name": "D",
           "email": "d@d.pl"
         }
       ]
     },
     {
-      "title": "wodeczka",
-      "start_date": "2021-08-09 07:53:11.989790",
+      "title": "conieco",
+      "start_date": "2021-08-18 18:15:05.206701",
       "localization": "krk",
-      "duration": 3323,
+      "duration": 9771,
       "owner": [
         {
           "first_name": "Pawel",
-          "last_name": "D",
-          "email": "d@d.pl"
-        }
-      ],
-      "members": [
-        {
-          "first_name": "Pawel",
-          "last_name": "D",
-          "email": "d@d.pl"
-        },
-        {
-          "first_name": "Damian",
-          "last_name": "K",
-          "email": "a@a.pl"
-        },
-        {
-          "first_name": "Damian",
           "last_name": "Z",
-          "email": "d@d.pl"
-        },
-        {
-          "first_name": "Andrzej",
-          "last_name": "K",
-          "email": "a@a.pl"
-        }
-      ]
-    },
-    {
-      "title": "conieco",
-      "start_date": "2021-08-08 03:10:11.989790",
-      "localization": "krk",
-      "duration": 6491,
-      "owner": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "Z",
-          "email": "a@a.pl"
-        }
-      ],
-      "members": [
-        {
-          "first_name": "Damian",
-          "last_name": "K",
-          "email": "p@p.pl"
-        },
-        {
-          "first_name": "Pawel",
-          "last_name": "D",
-          "email": "a@a.pl"
-        }
-      ]
-    },
-    {
-      "title": "wodeczka",
-      "start_date": "2021-08-07 05:02:11.989790",
-      "localization": "wro",
-      "duration": 7266,
-      "owner": [
-        {
-          "first_name": "Pawel",
-          "last_name": "K",
-          "email": "a@a.pl"
-        }
-      ],
-      "members": [
-        {
-          "first_name": "Pawel",
-          "last_name": "Z",
-          "email": "d@d.pl"
-        },
-        {
-          "first_name": "Andrzej",
-          "last_name": "K",
-          "email": "d@d.pl"
-        },
-        {
-          "first_name": "Damian",
-          "last_name": "Z",
-          "email": "a@a.pl"
-        }
-      ]
-    },
-    {
-      "title": "conieco",
-      "start_date": "2021-08-07 04:15:11.989790",
-      "localization": "krk",
-      "duration": 3071,
-      "owner": [
-        {
-          "first_name": "Pawel",
-          "last_name": "D",
           "email": "p@p.pl"
         }
       ],
       "members": [
         {
           "first_name": "Pawel",
-          "last_name": "Z",
-          "email": "a@a.pl"
-        },
-        {
-          "first_name": "Pawel",
-          "last_name": "D",
-          "email": "d@d.pl"
-        },
-        {
-          "first_name": "Damian",
           "last_name": "K",
-          "email": "p@p.pl"
-        },
-        {
-          "first_name": "Damian",
-          "last_name": "D",
-          "email": "p@p.pl"
-        }
-      ]
-    },
-    {
-      "title": "browarek",
-      "start_date": "2021-08-10 03:38:11.989790",
-      "localization": "wro",
-      "duration": 736,
-      "owner": [
-        {
-          "first_name": "Damian",
-          "last_name": "K",
-          "email": "p@p.pl"
-        }
-      ],
-      "members": [
-        {
-          "first_name": "Pawel",
-          "last_name": "D",
           "email": "d@d.pl"
-        }
-      ]
-    },
-    {
-      "title": "browarek",
-      "start_date": "2021-08-09 22:10:11.989790",
-      "localization": "krk",
-      "duration": 8434,
-      "owner": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "K",
-          "email": "p@p.pl"
-        }
-      ],
-      "members": [
-        {
-          "first_name": "Damian",
-          "last_name": "D",
-          "email": "a@a.pl"
         },
         {
           "first_name": "Damian",
           "last_name": "Z",
           "email": "d@d.pl"
-        }
-      ]
-    },
-    {
-      "title": "browarek",
-      "start_date": "2021-08-07 03:47:11.989790",
-      "localization": "wro",
-      "duration": 5912,
-      "owner": [
-        {
-          "first_name": "Damian",
-          "last_name": "Z",
-          "email": "a@a.pl"
-        }
-      ],
-      "members": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "D",
-          "email": "d@d.pl"
         },
-        {
-          "first_name": "Andrzej",
-          "last_name": "D",
-          "email": "a@a.pl"
-        },
-        {
-          "first_name": "Pawel",
-          "last_name": "Z",
-          "email": "d@d.pl"
-        },
-        {
-          "first_name": "Pawel",
-          "last_name": "Z",
-          "email": "d@d.pl"
-        },
-        {
-          "first_name": "Pawel",
-          "last_name": "D",
-          "email": "a@a.pl"
-        }
-      ]
-    },
-    {
-      "title": "browarek",
-      "start_date": "2021-08-07 02:13:11.989790",
-      "localization": "krk",
-      "duration": 3979,
-      "owner": [
-        {
-          "first_name": "Damian",
-          "last_name": "D",
-          "email": "p@p.pl"
-        }
-      ],
-      "members": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "D",
-          "email": "d@d.pl"
-        },
-        {
-          "first_name": "Pawel",
-          "last_name": "K",
-          "email": "p@p.pl"
-        },
-        {
-          "first_name": "Damian",
-          "last_name": "D",
-          "email": "d@d.pl"
-        },
-        {
-          "first_name": "Damian",
-          "last_name": "D",
-          "email": "a@a.pl"
-        }
-      ]
-    },
-    {
-      "title": "wodeczka",
-      "start_date": "2021-08-11 20:43:11.989790",
-      "localization": "krk",
-      "duration": 5891,
-      "owner": [
-        {
-          "first_name": "Damian",
-          "last_name": "Z",
-          "email": "a@a.pl"
-        }
-      ],
-      "members": [
         {
           "first_name": "Damian",
           "last_name": "K",
@@ -537,264 +202,99 @@
     },
     {
       "title": "conieco",
-      "start_date": "2021-08-10 18:37:11.989790",
-      "localization": "wro",
-      "duration": 7173,
-      "owner": [
-        {
-          "first_name": "Pawel",
-          "last_name": "D",
-          "email": "p@p.pl"
-        }
-      ],
-      "members": [
-        {
-          "first_name": "Damian",
-          "last_name": "D",
-          "email": "d@d.pl"
-        },
-        {
-          "first_name": "Pawel",
-          "last_name": "Z",
-          "email": "d@d.pl"
-        }
-      ]
-    },
-    {
-      "title": "browarek",
-      "start_date": "2021-08-11 11:13:11.989790",
-      "localization": "krk",
-      "duration": 4982,
-      "owner": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "D",
-          "email": "d@d.pl"
-        }
-      ],
-      "members": [
-        {
-          "first_name": "Damian",
-          "last_name": "K",
-          "email": "d@d.pl"
-        }
-      ]
-    },
-    {
-      "title": "conieco",
-      "start_date": "2021-08-09 19:25:11.989790",
-      "localization": "krk",
-      "duration": 5944,
-      "owner": [
-        {
-          "first_name": "Damian",
-          "last_name": "D",
-          "email": "d@d.pl"
-        }
-      ],
-      "members": [
-        {
-          "first_name": "Damian",
-          "last_name": "K",
-          "email": "d@d.pl"
-        },
-        {
-          "first_name": "Pawel",
-          "last_name": "Z",
-          "email": "p@p.pl"
-        }
-      ]
-    },
-    {
-      "title": "conieco",
-      "start_date": "2021-08-09 08:46:11.989790",
-      "localization": "wro",
-      "duration": 8993,
-      "owner": [
-        {
-          "first_name": "Pawel",
-          "last_name": "D",
-          "email": "d@d.pl"
-        }
-      ],
-      "members": [
-        {
-          "first_name": "Pawel",
-          "last_name": "Z",
-          "email": "p@p.pl"
-        },
-        {
-          "first_name": "Damian",
-          "last_name": "Z",
-          "email": "a@a.pl"
-        },
-        {
-          "first_name": "Damian",
-          "last_name": "Z",
-          "email": "p@p.pl"
-        },
-        {
-          "first_name": "Andrzej",
-          "last_name": "K",
-          "email": "d@d.pl"
-        }
-      ]
-    },
-    {
-      "title": "conieco",
-      "start_date": "2021-08-09 03:08:11.989790",
+      "start_date": "2021-08-18 23:50:05.206701",
       "localization": "waw",
-      "duration": 1246,
+      "duration": 9706,
       "owner": [
+        {
+          "first_name": "Damian",
+          "last_name": "Z",
+          "email": "d@d.pl"
+        }
+      ],
+      "members": [
         {
           "first_name": "Damian",
           "last_name": "D",
           "email": "a@a.pl"
-        }
-      ],
-      "members": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "K",
-          "email": "p@p.pl"
         },
         {
-          "first_name": "Andrzej",
-          "last_name": "Z",
-          "email": "p@p.pl"
-        },
-        {
-          "first_name": "Pawel",
-          "last_name": "K",
-          "email": "d@d.pl"
-        },
-        {
-          "first_name": "Pawel",
-          "last_name": "Z",
-          "email": "a@a.pl"
-        }
-      ]
-    },
-    {
-      "title": "wodeczka",
-      "start_date": "2021-08-05 16:17:11.989790",
-      "localization": "waw",
-      "duration": 9258,
-      "owner": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "Z",
-          "email": "p@p.pl"
-        }
-      ],
-      "members": [
-        {
-          "first_name": "Pawel",
+          "first_name": "Damian",
           "last_name": "D",
-          "email": "d@d.pl"
-        },
-        {
-          "first_name": "Pawel",
-          "last_name": "D",
-          "email": "a@a.pl"
-        },
-        {
-          "first_name": "Pawel",
-          "last_name": "D",
-          "email": "a@a.pl"
-        },
-        {
-          "first_name": "Pawel",
-          "last_name": "Z",
-          "email": "d@d.pl"
+          "email": "p@p.pl"
         }
       ]
     },
     {
       "title": "browarek",
-      "start_date": "2021-08-08 22:24:11.989790",
-      "localization": "wro",
-      "duration": 1842,
-      "owner": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "Z",
-          "email": "a@a.pl"
-        }
-      ],
-      "members": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "D",
-          "email": "d@d.pl"
-        },
-        {
-          "first_name": "Andrzej",
-          "last_name": "K",
-          "email": "p@p.pl"
-        },
-        {
-          "first_name": "Damian",
-          "last_name": "D",
-          "email": "a@a.pl"
-        },
-        {
-          "first_name": "Pawel",
-          "last_name": "Z",
-          "email": "d@d.pl"
-        }
-      ]
-    },
-    {
-      "title": "wodeczka",
-      "start_date": "2021-08-06 07:58:11.989790",
+      "start_date": "2021-08-23 06:39:05.206701",
       "localization": "krk",
-      "duration": 1549,
+      "duration": 881,
       "owner": [
         {
           "first_name": "Damian",
-          "last_name": "K",
-          "email": "d@d.pl"
+          "last_name": "D",
+          "email": "p@p.pl"
         }
       ],
       "members": [
         {
           "first_name": "Damian",
           "last_name": "D",
-          "email": "p@p.pl"
+          "email": "a@a.pl"
         },
         {
-          "first_name": "Damian",
+          "first_name": "Pawel",
           "last_name": "D",
-          "email": "p@p.pl"
+          "email": "d@d.pl"
         }
       ]
     },
     {
-      "title": "browarek",
-      "start_date": "2021-08-11 08:21:11.989790",
-      "localization": "waw",
-      "duration": 2569,
+      "title": "conieco",
+      "start_date": "2021-08-17 15:23:05.206701",
+      "localization": "wro",
+      "duration": 8897,
       "owner": [
+        {
+          "first_name": "Pawel",
+          "last_name": "Z",
+          "email": "p@p.pl"
+        }
+      ],
+      "members": [
+        {
+          "first_name": "Andrzej",
+          "last_name": "Z",
+          "email": "a@a.pl"
+        },
+        {
+          "first_name": "Pawel",
+          "last_name": "K",
+          "email": "a@a.pl"
+        },
+        {
+          "first_name": "Andrzej",
+          "last_name": "K",
+          "email": "a@a.pl"
+        },
+        {
+          "first_name": "Pawel",
+          "last_name": "D",
+          "email": "d@d.pl"
+        },
         {
           "first_name": "Pawel",
           "last_name": "Z",
           "email": "d@d.pl"
         }
-      ],
-      "members": [
-        {
-          "first_name": "Pawel",
-          "last_name": "K",
-          "email": "p@p.pl"
-        }
       ]
     },
     {
-      "title": "browarek",
-      "start_date": "2021-08-08 00:09:11.989790",
-      "localization": "wro",
-      "duration": 5527,
+      "title": "wodeczka",
+      "start_date": "2021-08-22 20:07:05.207699",
+      "localization": "waw",
+      "duration": 6643,
       "owner": [
         {
           "first_name": "Andrzej",
@@ -806,57 +306,92 @@
         {
           "first_name": "Pawel",
           "last_name": "D",
-          "email": "a@a.pl"
-        }
-      ]
-    },
-    {
-      "title": "wodeczka",
-      "start_date": "2021-08-08 02:43:11.989790",
-      "localization": "wro",
-      "duration": 1435,
-      "owner": [
-        {
-          "first_name": "Pawel",
-          "last_name": "K",
-          "email": "a@a.pl"
-        }
-      ],
-      "members": [
-        {
-          "first_name": "Damian",
-          "last_name": "K",
           "email": "p@p.pl"
         },
         {
-          "first_name": "Damian",
-          "last_name": "Z",
+          "first_name": "Andrzej",
+          "last_name": "K",
           "email": "p@p.pl"
         },
         {
           "first_name": "Pawel",
           "last_name": "D",
+          "email": "p@p.pl"
+        },
+        {
+          "first_name": "Pawel",
+          "last_name": "Z",
           "email": "a@a.pl"
         }
       ]
     },
     {
       "title": "conieco",
-      "start_date": "2021-08-06 12:02:11.989790",
-      "localization": "waw",
-      "duration": 9252,
+      "start_date": "2021-08-21 06:42:05.207699",
+      "localization": "wro",
+      "duration": 2081,
       "owner": [
         {
-          "first_name": "Damian",
-          "last_name": "D",
-          "email": "p@p.pl"
+          "first_name": "Pawel",
+          "last_name": "K",
+          "email": "a@a.pl"
         }
       ],
       "members": [
         {
           "first_name": "Damian",
+          "last_name": "K",
+          "email": "d@d.pl"
+        },
+        {
+          "first_name": "Damian",
           "last_name": "D",
           "email": "p@p.pl"
+        }
+      ]
+    },
+    {
+      "title": "browarek",
+      "start_date": "2021-08-22 11:16:05.207699",
+      "localization": "krk",
+      "duration": 6214,
+      "owner": [
+        {
+          "first_name": "Damian",
+          "last_name": "K",
+          "email": "a@a.pl"
+        }
+      ],
+      "members": [
+        {
+          "first_name": "Damian",
+          "last_name": "Z",
+          "email": "p@p.pl"
+        }
+      ]
+    },
+    {
+      "title": "wodeczka",
+      "start_date": "2021-08-22 04:46:05.207699",
+      "localization": "waw",
+      "duration": 9982,
+      "owner": [
+        {
+          "first_name": "Andrzej",
+          "last_name": "Z",
+          "email": "d@d.pl"
+        }
+      ],
+      "members": [
+        {
+          "first_name": "Damian",
+          "last_name": "Z",
+          "email": "d@d.pl"
+        },
+        {
+          "first_name": "Andrzej",
+          "last_name": "Z",
+          "email": "d@d.pl"
         },
         {
           "first_name": "Pawel",
@@ -867,9 +402,29 @@
     },
     {
       "title": "conieco",
-      "start_date": "2021-08-08 09:55:11.989790",
+      "start_date": "2021-08-19 23:09:05.207699",
+      "localization": "wro",
+      "duration": 6898,
+      "owner": [
+        {
+          "first_name": "Pawel",
+          "last_name": "K",
+          "email": "p@p.pl"
+        }
+      ],
+      "members": [
+        {
+          "first_name": "Pawel",
+          "last_name": "Z",
+          "email": "p@p.pl"
+        }
+      ]
+    },
+    {
+      "title": "browarek",
+      "start_date": "2021-08-18 05:11:05.207699",
       "localization": "krk",
-      "duration": 3715,
+      "duration": 3995,
       "owner": [
         {
           "first_name": "Damian",
@@ -880,11 +435,421 @@
       "members": [
         {
           "first_name": "Damian",
+          "last_name": "Z",
+          "email": "p@p.pl"
+        },
+        {
+          "first_name": "Pawel",
+          "last_name": "Z",
+          "email": "d@d.pl"
+        },
+        {
+          "first_name": "Damian",
           "last_name": "D",
+          "email": "d@d.pl"
+        },
+        {
+          "first_name": "Andrzej",
+          "last_name": "K",
+          "email": "a@a.pl"
+        },
+        {
+          "first_name": "Pawel",
+          "last_name": "D",
+          "email": "d@d.pl"
+        }
+      ]
+    },
+    {
+      "title": "browarek",
+      "start_date": "2021-08-20 07:35:05.207699",
+      "localization": "wro",
+      "duration": 1002,
+      "owner": [
+        {
+          "first_name": "Damian",
+          "last_name": "K",
+          "email": "p@p.pl"
+        }
+      ],
+      "members": [
+        {
+          "first_name": "Damian",
+          "last_name": "Z",
+          "email": "d@d.pl"
+        },
+        {
+          "first_name": "Damian",
+          "last_name": "K",
+          "email": "d@d.pl"
+        }
+      ]
+    },
+    {
+      "title": "wodeczka",
+      "start_date": "2021-08-23 03:00:05.207699",
+      "localization": "krk",
+      "duration": 8435,
+      "owner": [
+        {
+          "first_name": "Damian",
+          "last_name": "D",
+          "email": "d@d.pl"
+        }
+      ],
+      "members": [
+        {
+          "first_name": "Damian",
+          "last_name": "K",
           "email": "a@a.pl"
         },
         {
           "first_name": "Damian",
+          "last_name": "K",
+          "email": "a@a.pl"
+        },
+        {
+          "first_name": "Pawel",
+          "last_name": "Z",
+          "email": "p@p.pl"
+        },
+        {
+          "first_name": "Pawel",
+          "last_name": "D",
+          "email": "p@p.pl"
+        }
+      ]
+    },
+    {
+      "title": "browarek",
+      "start_date": "2021-08-19 16:51:05.207699",
+      "localization": "krk",
+      "duration": 1610,
+      "owner": [
+        {
+          "first_name": "Pawel",
+          "last_name": "Z",
+          "email": "a@a.pl"
+        }
+      ],
+      "members": [
+        {
+          "first_name": "Damian",
+          "last_name": "D",
+          "email": "a@a.pl"
+        }
+      ]
+    },
+    {
+      "title": "wodeczka",
+      "start_date": "2021-08-18 15:46:05.207699",
+      "localization": "wro",
+      "duration": 3110,
+      "owner": [
+        {
+          "first_name": "Damian",
+          "last_name": "D",
+          "email": "d@d.pl"
+        }
+      ],
+      "members": [
+        {
+          "first_name": "Damian",
+          "last_name": "Z",
+          "email": "p@p.pl"
+        },
+        {
+          "first_name": "Andrzej",
+          "last_name": "K",
+          "email": "d@d.pl"
+        },
+        {
+          "first_name": "Andrzej",
+          "last_name": "K",
+          "email": "a@a.pl"
+        }
+      ]
+    },
+    {
+      "title": "wodeczka",
+      "start_date": "2021-08-18 19:00:05.207699",
+      "localization": "wro",
+      "duration": 3202,
+      "owner": [
+        {
+          "first_name": "Pawel",
+          "last_name": "Z",
+          "email": "a@a.pl"
+        }
+      ],
+      "members": [
+        {
+          "first_name": "Andrzej",
+          "last_name": "K",
+          "email": "a@a.pl"
+        },
+        {
+          "first_name": "Pawel",
+          "last_name": "Z",
+          "email": "a@a.pl"
+        }
+      ]
+    },
+    {
+      "title": "wodeczka",
+      "start_date": "2021-08-22 06:24:05.207699",
+      "localization": "waw",
+      "duration": 530,
+      "owner": [
+        {
+          "first_name": "Pawel",
+          "last_name": "Z",
+          "email": "p@p.pl"
+        }
+      ],
+      "members": [
+        {
+          "first_name": "Damian",
+          "last_name": "Z",
+          "email": "a@a.pl"
+        }
+      ]
+    },
+    {
+      "title": "browarek",
+      "start_date": "2021-08-19 15:22:05.207699",
+      "localization": "wro",
+      "duration": 6584,
+      "owner": [
+        {
+          "first_name": "Damian",
+          "last_name": "K",
+          "email": "a@a.pl"
+        }
+      ],
+      "members": [
+        {
+          "first_name": "Pawel",
+          "last_name": "D",
+          "email": "p@p.pl"
+        },
+        {
+          "first_name": "Pawel",
+          "last_name": "D",
+          "email": "a@a.pl"
+        }
+      ]
+    },
+    {
+      "title": "browarek",
+      "start_date": "2021-08-19 10:38:05.207699",
+      "localization": "krk",
+      "duration": 447,
+      "owner": [
+        {
+          "first_name": "Andrzej",
+          "last_name": "K",
+          "email": "a@a.pl"
+        }
+      ],
+      "members": [
+        {
+          "first_name": "Andrzej",
+          "last_name": "D",
+          "email": "p@p.pl"
+        },
+        {
+          "first_name": "Pawel",
+          "last_name": "K",
+          "email": "d@d.pl"
+        },
+        {
+          "first_name": "Damian",
+          "last_name": "D",
+          "email": "d@d.pl"
+        }
+      ]
+    },
+    {
+      "title": "wodeczka",
+      "start_date": "2021-08-18 20:12:05.207699",
+      "localization": "krk",
+      "duration": 1907,
+      "owner": [
+        {
+          "first_name": "Andrzej",
+          "last_name": "Z",
+          "email": "d@d.pl"
+        }
+      ],
+      "members": [
+        {
+          "first_name": "Andrzej",
+          "last_name": "K",
+          "email": "a@a.pl"
+        },
+        {
+          "first_name": "Pawel",
+          "last_name": "Z",
+          "email": "a@a.pl"
+        },
+        {
+          "first_name": "Pawel",
+          "last_name": "Z",
+          "email": "p@p.pl"
+        },
+        {
+          "first_name": "Damian",
+          "last_name": "K",
+          "email": "d@d.pl"
+        }
+      ]
+    },
+    {
+      "title": "conieco",
+      "start_date": "2021-08-22 08:49:05.207699",
+      "localization": "wro",
+      "duration": 5675,
+      "owner": [
+        {
+          "first_name": "Andrzej",
+          "last_name": "D",
+          "email": "d@d.pl"
+        }
+      ],
+      "members": [
+        {
+          "first_name": "Andrzej",
+          "last_name": "K",
+          "email": "a@a.pl"
+        },
+        {
+          "first_name": "Andrzej",
+          "last_name": "Z",
+          "email": "d@d.pl"
+        },
+        {
+          "first_name": "Damian",
+          "last_name": "K",
+          "email": "d@d.pl"
+        },
+        {
+          "first_name": "Damian",
+          "last_name": "D",
+          "email": "p@p.pl"
+        }
+      ]
+    },
+    {
+      "title": "conieco",
+      "start_date": "2021-08-18 04:31:05.207699",
+      "localization": "wro",
+      "duration": 4104,
+      "owner": [
+        {
+          "first_name": "Pawel",
+          "last_name": "Z",
+          "email": "d@d.pl"
+        }
+      ],
+      "members": [
+        {
+          "first_name": "Damian",
+          "last_name": "K",
+          "email": "d@d.pl"
+        },
+        {
+          "first_name": "Andrzej",
+          "last_name": "K",
+          "email": "p@p.pl"
+        },
+        {
+          "first_name": "Andrzej",
+          "last_name": "D",
+          "email": "d@d.pl"
+        },
+        {
+          "first_name": "Andrzej",
+          "last_name": "K",
+          "email": "a@a.pl"
+        }
+      ]
+    },
+    {
+      "title": "browarek",
+      "start_date": "2021-08-22 13:19:05.207699",
+      "localization": "krk",
+      "duration": 889,
+      "owner": [
+        {
+          "first_name": "Damian",
+          "last_name": "Z",
+          "email": "p@p.pl"
+        }
+      ],
+      "members": [
+        {
+          "first_name": "Damian",
+          "last_name": "D",
+          "email": "a@a.pl"
+        }
+      ]
+    },
+    {
+      "title": "browarek",
+      "start_date": "2021-08-22 12:08:05.207699",
+      "localization": "wro",
+      "duration": 8889,
+      "owner": [
+        {
+          "first_name": "Pawel",
+          "last_name": "D",
+          "email": "d@d.pl"
+        }
+      ],
+      "members": [
+        {
+          "first_name": "Andrzej",
+          "last_name": "K",
+          "email": "p@p.pl"
+        },
+        {
+          "first_name": "Damian",
+          "last_name": "Z",
+          "email": "a@a.pl"
+        },
+        {
+          "first_name": "Damian",
+          "last_name": "Z",
+          "email": "p@p.pl"
+        },
+        {
+          "first_name": "Pawel",
+          "last_name": "D",
+          "email": "d@d.pl"
+        },
+        {
+          "first_name": "Damian",
+          "last_name": "K",
+          "email": "p@p.pl"
+        }
+      ]
+    },
+    {
+      "title": "wodeczka",
+      "start_date": "2021-08-17 13:36:05.207699",
+      "localization": "waw",
+      "duration": 8279,
+      "owner": [
+        {
+          "first_name": "Damian",
+          "last_name": "D",
+          "email": "d@d.pl"
+        }
+      ],
+      "members": [
+        {
+          "first_name": "Andrzej",
           "last_name": "D",
           "email": "p@p.pl"
         }
@@ -894,393 +859,33 @@
   "workshop": [
     {
       "title": "conieco",
-      "start_date": "2021-08-06 08:40:11.989790",
-      "localization": "waw",
-      "duration": 176,
+      "start_date": "2021-08-23 11:43:05.206701",
+      "localization": "wro",
+      "duration": 4200,
       "owner": [
         {
           "first_name": "Damian",
           "last_name": "Z",
-          "email": "p@p.pl"
+          "email": "a@a.pl"
         }
       ],
       "trainer": [
         {
           "first_name": "Pawel",
-          "last_name": "K",
-          "email": "a@a.pl"
+          "last_name": "D",
+          "email": "d@d.pl"
         }
       ]
     },
     {
       "title": "wodeczka",
-      "start_date": "2021-08-06 19:26:11.989790",
-      "localization": "wro",
-      "duration": 4238,
-      "owner": [
-        {
-          "first_name": "Damian",
-          "last_name": "D",
-          "email": "d@d.pl"
-        }
-      ],
-      "trainer": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "Z",
-          "email": "p@p.pl"
-        }
-      ]
-    },
-    {
-      "title": "conieco",
-      "start_date": "2021-08-09 16:13:11.989790",
-      "localization": "wro",
-      "duration": 8507,
-      "owner": [
-        {
-          "first_name": "Damian",
-          "last_name": "Z",
-          "email": "d@d.pl"
-        }
-      ],
-      "trainer": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "Z",
-          "email": "p@p.pl"
-        }
-      ]
-    },
-    {
-      "title": "browarek",
-      "start_date": "2021-08-11 02:26:11.989790",
-      "localization": "wro",
-      "duration": 8190,
-      "owner": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "Z",
-          "email": "p@p.pl"
-        }
-      ],
-      "trainer": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "D",
-          "email": "a@a.pl"
-        }
-      ]
-    },
-    {
-      "title": "browarek",
-      "start_date": "2021-08-11 02:38:11.989790",
-      "localization": "wro",
-      "duration": 9982,
-      "owner": [
-        {
-          "first_name": "Damian",
-          "last_name": "D",
-          "email": "p@p.pl"
-        }
-      ],
-      "trainer": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "D",
-          "email": "a@a.pl"
-        }
-      ]
-    },
-    {
-      "title": "wodeczka",
-      "start_date": "2021-08-05 16:01:11.989790",
-      "localization": "wro",
-      "duration": 3307,
-      "owner": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "K",
-          "email": "a@a.pl"
-        }
-      ],
-      "trainer": [
-        {
-          "first_name": "Pawel",
-          "last_name": "Z",
-          "email": "a@a.pl"
-        }
-      ]
-    },
-    {
-      "title": "conieco",
-      "start_date": "2021-08-07 17:40:11.989790",
-      "localization": "wro",
-      "duration": 422,
-      "owner": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "Z",
-          "email": "a@a.pl"
-        }
-      ],
-      "trainer": [
-        {
-          "first_name": "Pawel",
-          "last_name": "Z",
-          "email": "p@p.pl"
-        }
-      ]
-    },
-    {
-      "title": "browarek",
-      "start_date": "2021-08-10 05:14:11.989790",
+      "start_date": "2021-08-23 12:04:05.206701",
       "localization": "waw",
-      "duration": 3563,
-      "owner": [
-        {
-          "first_name": "Pawel",
-          "last_name": "K",
-          "email": "a@a.pl"
-        }
-      ],
-      "trainer": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "Z",
-          "email": "p@p.pl"
-        }
-      ]
-    },
-    {
-      "title": "browarek",
-      "start_date": "2021-08-05 18:58:11.989790",
-      "localization": "waw",
-      "duration": 1619,
-      "owner": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "Z",
-          "email": "d@d.pl"
-        }
-      ],
-      "trainer": [
-        {
-          "first_name": "Pawel",
-          "last_name": "K",
-          "email": "a@a.pl"
-        }
-      ]
-    },
-    {
-      "title": "conieco",
-      "start_date": "2021-08-11 05:06:11.989790",
-      "localization": "krk",
-      "duration": 4124,
-      "owner": [
-        {
-          "first_name": "Pawel",
-          "last_name": "Z",
-          "email": "a@a.pl"
-        }
-      ],
-      "trainer": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "K",
-          "email": "a@a.pl"
-        }
-      ]
-    },
-    {
-      "title": "conieco",
-      "start_date": "2021-08-06 15:16:11.989790",
-      "localization": "wro",
-      "duration": 6197,
-      "owner": [
-        {
-          "first_name": "Damian",
-          "last_name": "K",
-          "email": "p@p.pl"
-        }
-      ],
-      "trainer": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "K",
-          "email": "p@p.pl"
-        }
-      ]
-    },
-    {
-      "title": "browarek",
-      "start_date": "2021-08-10 17:47:11.989790",
-      "localization": "wro",
-      "duration": 5598,
+      "duration": 579,
       "owner": [
         {
           "first_name": "Damian",
           "last_name": "Z",
-          "email": "a@a.pl"
-        }
-      ],
-      "trainer": [
-        {
-          "first_name": "Pawel",
-          "last_name": "Z",
-          "email": "a@a.pl"
-        }
-      ]
-    },
-    {
-      "title": "conieco",
-      "start_date": "2021-08-05 19:42:11.989790",
-      "localization": "krk",
-      "duration": 3434,
-      "owner": [
-        {
-          "first_name": "Damian",
-          "last_name": "D",
-          "email": "p@p.pl"
-        }
-      ],
-      "trainer": [
-        {
-          "first_name": "Damian",
-          "last_name": "K",
-          "email": "a@a.pl"
-        }
-      ]
-    },
-    {
-      "title": "conieco",
-      "start_date": "2021-08-11 03:44:11.989790",
-      "localization": "wro",
-      "duration": 1944,
-      "owner": [
-        {
-          "first_name": "Pawel",
-          "last_name": "D",
-          "email": "a@a.pl"
-        }
-      ],
-      "trainer": [
-        {
-          "first_name": "Damian",
-          "last_name": "K",
-          "email": "p@p.pl"
-        }
-      ]
-    },
-    {
-      "title": "browarek",
-      "start_date": "2021-08-06 04:07:11.989790",
-      "localization": "wro",
-      "duration": 9260,
-      "owner": [
-        {
-          "first_name": "Damian",
-          "last_name": "D",
-          "email": "d@d.pl"
-        }
-      ],
-      "trainer": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "Z",
-          "email": "p@p.pl"
-        }
-      ]
-    },
-    {
-      "title": "browarek",
-      "start_date": "2021-08-10 03:49:11.989790",
-      "localization": "waw",
-      "duration": 6545,
-      "owner": [
-        {
-          "first_name": "Pawel",
-          "last_name": "Z",
-          "email": "a@a.pl"
-        }
-      ],
-      "trainer": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "Z",
-          "email": "a@a.pl"
-        }
-      ]
-    },
-    {
-      "title": "conieco",
-      "start_date": "2021-08-09 11:24:11.989790",
-      "localization": "wro",
-      "duration": 8790,
-      "owner": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "Z",
-          "email": "a@a.pl"
-        }
-      ],
-      "trainer": [
-        {
-          "first_name": "Pawel",
-          "last_name": "K",
-          "email": "d@d.pl"
-        }
-      ]
-    },
-    {
-      "title": "browarek",
-      "start_date": "2021-08-08 20:30:11.989790",
-      "localization": "krk",
-      "duration": 2925,
-      "owner": [
-        {
-          "first_name": "Pawel",
-          "last_name": "D",
-          "email": "a@a.pl"
-        }
-      ],
-      "trainer": [
-        {
-          "first_name": "Damian",
-          "last_name": "D",
-          "email": "a@a.pl"
-        }
-      ]
-    },
-    {
-      "title": "wodeczka",
-      "start_date": "2021-08-09 23:53:11.989790",
-      "localization": "krk",
-      "duration": 7714,
-      "owner": [
-        {
-          "first_name": "Pawel",
-          "last_name": "Z",
-          "email": "a@a.pl"
-        }
-      ],
-      "trainer": [
-        {
-          "first_name": "Pawel",
-          "last_name": "D",
-          "email": "a@a.pl"
-        }
-      ]
-    },
-    {
-      "title": "conieco",
-      "start_date": "2021-08-07 05:25:11.989790",
-      "localization": "krk",
-      "duration": 2524,
-      "owner": [
-        {
-          "first_name": "Pawel",
-          "last_name": "K",
           "email": "p@p.pl"
         }
       ],
@@ -1294,93 +899,73 @@
     },
     {
       "title": "wodeczka",
-      "start_date": "2021-08-06 02:17:11.989790",
-      "localization": "waw",
-      "duration": 1822,
+      "start_date": "2021-08-22 18:48:05.206701",
+      "localization": "krk",
+      "duration": 436,
       "owner": [
         {
           "first_name": "Pawel",
-          "last_name": "D",
-          "email": "a@a.pl"
+          "last_name": "K",
+          "email": "p@p.pl"
         }
       ],
       "trainer": [
         {
-          "first_name": "Andrzej",
+          "first_name": "Damian",
           "last_name": "D",
           "email": "a@a.pl"
         }
       ]
     },
     {
-      "title": "wodeczka",
-      "start_date": "2021-08-07 03:30:11.989790",
+      "title": "conieco",
+      "start_date": "2021-08-20 03:18:05.206701",
       "localization": "krk",
-      "duration": 8111,
+      "duration": 8762,
       "owner": [
+        {
+          "first_name": "Andrzej",
+          "last_name": "D",
+          "email": "a@a.pl"
+        }
+      ],
+      "trainer": [
+        {
+          "first_name": "Pawel",
+          "last_name": "D",
+          "email": "d@d.pl"
+        }
+      ]
+    },
+    {
+      "title": "wodeczka",
+      "start_date": "2021-08-22 14:52:05.206701",
+      "localization": "krk",
+      "duration": 8288,
+      "owner": [
+        {
+          "first_name": "Damian",
+          "last_name": "K",
+          "email": "a@a.pl"
+        }
+      ],
+      "trainer": [
         {
           "first_name": "Damian",
           "last_name": "K",
           "email": "d@d.pl"
         }
-      ],
-      "trainer": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "Z",
-          "email": "p@p.pl"
-        }
       ]
     },
     {
       "title": "browarek",
-      "start_date": "2021-08-07 00:54:11.989790",
-      "localization": "waw",
-      "duration": 6653,
+      "start_date": "2021-08-22 06:56:05.206701",
+      "localization": "krk",
+      "duration": 3690,
       "owner": [
         {
-          "first_name": "Andrzej",
-          "last_name": "Z",
-          "email": "a@a.pl"
-        }
-      ],
-      "trainer": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "D",
-          "email": "d@d.pl"
-        }
-      ]
-    },
-    {
-      "title": "browarek",
-      "start_date": "2021-08-07 18:42:11.989790",
-      "localization": "waw",
-      "duration": 3546,
-      "owner": [
-        {
-          "first_name": "Pawel",
-          "last_name": "Z",
-          "email": "a@a.pl"
-        }
-      ],
-      "trainer": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "Z",
-          "email": "p@p.pl"
-        }
-      ]
-    },
-    {
-      "title": "wodeczka",
-      "start_date": "2021-08-07 08:38:11.989790",
-      "localization": "waw",
-      "duration": 831,
-      "owner": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "Z",
+          "first_name": "Damian",
+          "last_name": "K",
           "email": "a@a.pl"
         }
       ],
@@ -1393,19 +978,239 @@
       ]
     },
     {
+      "title": "conieco",
+      "start_date": "2021-08-19 01:46:05.206701",
+      "localization": "waw",
+      "duration": 2982,
+      "owner": [
+        {
+          "first_name": "Andrzej",
+          "last_name": "Z",
+          "email": "p@p.pl"
+        }
+      ],
+      "trainer": [
+        {
+          "first_name": "Andrzej",
+          "last_name": "D",
+          "email": "d@d.pl"
+        }
+      ]
+    },
+    {
+      "title": "wodeczka",
+      "start_date": "2021-08-22 08:16:05.206701",
+      "localization": "krk",
+      "duration": 7419,
+      "owner": [
+        {
+          "first_name": "Andrzej",
+          "last_name": "D",
+          "email": "p@p.pl"
+        }
+      ],
+      "trainer": [
+        {
+          "first_name": "Andrzej",
+          "last_name": "K",
+          "email": "p@p.pl"
+        }
+      ]
+    },
+    {
+      "title": "conieco",
+      "start_date": "2021-08-22 09:03:05.206701",
+      "localization": "krk",
+      "duration": 603,
+      "owner": [
+        {
+          "first_name": "Andrzej",
+          "last_name": "Z",
+          "email": "a@a.pl"
+        }
+      ],
+      "trainer": [
+        {
+          "first_name": "Andrzej",
+          "last_name": "Z",
+          "email": "d@d.pl"
+        }
+      ]
+    },
+    {
       "title": "browarek",
-      "start_date": "2021-08-10 12:57:11.989790",
+      "start_date": "2021-08-19 06:05:05.207699",
+      "localization": "waw",
+      "duration": 2253,
+      "owner": [
+        {
+          "first_name": "Pawel",
+          "last_name": "K",
+          "email": "d@d.pl"
+        }
+      ],
+      "trainer": [
+        {
+          "first_name": "Pawel",
+          "last_name": "D",
+          "email": "p@p.pl"
+        }
+      ]
+    },
+    {
+      "title": "wodeczka",
+      "start_date": "2021-08-19 10:48:05.207699",
+      "localization": "krk",
+      "duration": 8440,
+      "owner": [
+        {
+          "first_name": "Andrzej",
+          "last_name": "Z",
+          "email": "p@p.pl"
+        }
+      ],
+      "trainer": [
+        {
+          "first_name": "Andrzej",
+          "last_name": "K",
+          "email": "a@a.pl"
+        }
+      ]
+    },
+    {
+      "title": "conieco",
+      "start_date": "2021-08-21 17:55:05.207699",
+      "localization": "krk",
+      "duration": 2629,
+      "owner": [
+        {
+          "first_name": "Pawel",
+          "last_name": "D",
+          "email": "p@p.pl"
+        }
+      ],
+      "trainer": [
+        {
+          "first_name": "Pawel",
+          "last_name": "K",
+          "email": "a@a.pl"
+        }
+      ]
+    },
+    {
+      "title": "conieco",
+      "start_date": "2021-08-22 06:54:05.207699",
+      "localization": "waw",
+      "duration": 3852,
+      "owner": [
+        {
+          "first_name": "Damian",
+          "last_name": "K",
+          "email": "a@a.pl"
+        }
+      ],
+      "trainer": [
+        {
+          "first_name": "Damian",
+          "last_name": "Z",
+          "email": "p@p.pl"
+        }
+      ]
+    },
+    {
+      "title": "conieco",
+      "start_date": "2021-08-22 05:52:05.207699",
       "localization": "wro",
-      "duration": 1459,
+      "duration": 2748,
       "owner": [
         {
-          "first_name": "Andrzej",
+          "first_name": "Pawel",
           "last_name": "D",
           "email": "a@a.pl"
         }
       ],
       "trainer": [
         {
+          "first_name": "Andrzej",
+          "last_name": "D",
+          "email": "a@a.pl"
+        }
+      ]
+    },
+    {
+      "title": "conieco",
+      "start_date": "2021-08-19 18:21:05.207699",
+      "localization": "krk",
+      "duration": 7675,
+      "owner": [
+        {
+          "first_name": "Pawel",
+          "last_name": "Z",
+          "email": "p@p.pl"
+        }
+      ],
+      "trainer": [
+        {
+          "first_name": "Pawel",
+          "last_name": "D",
+          "email": "a@a.pl"
+        }
+      ]
+    },
+    {
+      "title": "browarek",
+      "start_date": "2021-08-18 02:02:05.207699",
+      "localization": "wro",
+      "duration": 5054,
+      "owner": [
+        {
+          "first_name": "Pawel",
+          "last_name": "K",
+          "email": "p@p.pl"
+        }
+      ],
+      "trainer": [
+        {
+          "first_name": "Damian",
+          "last_name": "Z",
+          "email": "a@a.pl"
+        }
+      ]
+    },
+    {
+      "title": "browarek",
+      "start_date": "2021-08-21 06:32:05.207699",
+      "localization": "krk",
+      "duration": 5046,
+      "owner": [
+        {
+          "first_name": "Andrzej",
+          "last_name": "K",
+          "email": "a@a.pl"
+        }
+      ],
+      "trainer": [
+        {
+          "first_name": "Andrzej",
+          "last_name": "D",
+          "email": "p@p.pl"
+        }
+      ]
+    },
+    {
+      "title": "wodeczka",
+      "start_date": "2021-08-18 10:26:05.207699",
+      "localization": "krk",
+      "duration": 7379,
+      "owner": [
+        {
+          "first_name": "Andrzej",
+          "last_name": "D",
+          "email": "d@d.pl"
+        }
+      ],
+      "trainer": [
+        {
           "first_name": "Pawel",
           "last_name": "D",
           "email": "p@p.pl"
@@ -1414,9 +1219,229 @@
     },
     {
       "title": "browarek",
-      "start_date": "2021-08-05 22:37:11.989790",
+      "start_date": "2021-08-20 14:37:05.207699",
+      "localization": "krk",
+      "duration": 4271,
+      "owner": [
+        {
+          "first_name": "Andrzej",
+          "last_name": "D",
+          "email": "p@p.pl"
+        }
+      ],
+      "trainer": [
+        {
+          "first_name": "Damian",
+          "last_name": "D",
+          "email": "a@a.pl"
+        }
+      ]
+    },
+    {
+      "title": "wodeczka",
+      "start_date": "2021-08-20 12:28:05.207699",
+      "localization": "krk",
+      "duration": 5141,
+      "owner": [
+        {
+          "first_name": "Pawel",
+          "last_name": "D",
+          "email": "a@a.pl"
+        }
+      ],
+      "trainer": [
+        {
+          "first_name": "Andrzej",
+          "last_name": "K",
+          "email": "a@a.pl"
+        }
+      ]
+    },
+    {
+      "title": "browarek",
+      "start_date": "2021-08-19 15:08:05.207699",
       "localization": "waw",
-      "duration": 3678,
+      "duration": 2627,
+      "owner": [
+        {
+          "first_name": "Pawel",
+          "last_name": "K",
+          "email": "d@d.pl"
+        }
+      ],
+      "trainer": [
+        {
+          "first_name": "Damian",
+          "last_name": "D",
+          "email": "p@p.pl"
+        }
+      ]
+    },
+    {
+      "title": "browarek",
+      "start_date": "2021-08-17 14:34:05.207699",
+      "localization": "krk",
+      "duration": 576,
+      "owner": [
+        {
+          "first_name": "Pawel",
+          "last_name": "D",
+          "email": "d@d.pl"
+        }
+      ],
+      "trainer": [
+        {
+          "first_name": "Pawel",
+          "last_name": "K",
+          "email": "p@p.pl"
+        }
+      ]
+    },
+    {
+      "title": "conieco",
+      "start_date": "2021-08-18 01:53:05.207699",
+      "localization": "wro",
+      "duration": 9379,
+      "owner": [
+        {
+          "first_name": "Pawel",
+          "last_name": "Z",
+          "email": "p@p.pl"
+        }
+      ],
+      "trainer": [
+        {
+          "first_name": "Pawel",
+          "last_name": "K",
+          "email": "d@d.pl"
+        }
+      ]
+    },
+    {
+      "title": "conieco",
+      "start_date": "2021-08-21 16:59:05.207699",
+      "localization": "waw",
+      "duration": 3842,
+      "owner": [
+        {
+          "first_name": "Pawel",
+          "last_name": "Z",
+          "email": "p@p.pl"
+        }
+      ],
+      "trainer": [
+        {
+          "first_name": "Pawel",
+          "last_name": "K",
+          "email": "p@p.pl"
+        }
+      ]
+    },
+    {
+      "title": "browarek",
+      "start_date": "2021-08-20 09:55:05.207699",
+      "localization": "krk",
+      "duration": 3088,
+      "owner": [
+        {
+          "first_name": "Andrzej",
+          "last_name": "Z",
+          "email": "d@d.pl"
+        }
+      ],
+      "trainer": [
+        {
+          "first_name": "Damian",
+          "last_name": "K",
+          "email": "d@d.pl"
+        }
+      ]
+    },
+    {
+      "title": "conieco",
+      "start_date": "2021-08-17 21:01:05.207699",
+      "localization": "wro",
+      "duration": 9422,
+      "owner": [
+        {
+          "first_name": "Pawel",
+          "last_name": "Z",
+          "email": "d@d.pl"
+        }
+      ],
+      "trainer": [
+        {
+          "first_name": "Damian",
+          "last_name": "Z",
+          "email": "a@a.pl"
+        }
+      ]
+    },
+    {
+      "title": "wodeczka",
+      "start_date": "2021-08-22 02:59:05.207699",
+      "localization": "wro",
+      "duration": 311,
+      "owner": [
+        {
+          "first_name": "Damian",
+          "last_name": "K",
+          "email": "a@a.pl"
+        }
+      ],
+      "trainer": [
+        {
+          "first_name": "Damian",
+          "last_name": "K",
+          "email": "d@d.pl"
+        }
+      ]
+    },
+    {
+      "title": "wodeczka",
+      "start_date": "2021-08-21 06:16:05.207699",
+      "localization": "waw",
+      "duration": 4206,
+      "owner": [
+        {
+          "first_name": "Damian",
+          "last_name": "Z",
+          "email": "d@d.pl"
+        }
+      ],
+      "trainer": [
+        {
+          "first_name": "Andrzej",
+          "last_name": "K",
+          "email": "d@d.pl"
+        }
+      ]
+    },
+    {
+      "title": "wodeczka",
+      "start_date": "2021-08-19 16:01:05.207699",
+      "localization": "krk",
+      "duration": 4501,
+      "owner": [
+        {
+          "first_name": "Damian",
+          "last_name": "D",
+          "email": "d@d.pl"
+        }
+      ],
+      "trainer": [
+        {
+          "first_name": "Pawel",
+          "last_name": "D",
+          "email": "d@d.pl"
+        }
+      ]
+    },
+    {
+      "title": "conieco",
+      "start_date": "2021-08-20 18:05:05.207699",
+      "localization": "wro",
+      "duration": 9634,
       "owner": [
         {
           "first_name": "Damian",
@@ -1428,67 +1453,7 @@
         {
           "first_name": "Pawel",
           "last_name": "Z",
-          "email": "d@d.pl"
-        }
-      ]
-    },
-    {
-      "title": "browarek",
-      "start_date": "2021-08-05 16:38:11.989790",
-      "localization": "waw",
-      "duration": 6813,
-      "owner": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "K",
-          "email": "d@d.pl"
-        }
-      ],
-      "trainer": [
-        {
-          "first_name": "Damian",
-          "last_name": "Z",
-          "email": "p@p.pl"
-        }
-      ]
-    },
-    {
-      "title": "wodeczka",
-      "start_date": "2021-08-07 00:29:11.989790",
-      "localization": "krk",
-      "duration": 6382,
-      "owner": [
-        {
-          "first_name": "Damian",
-          "last_name": "K",
-          "email": "d@d.pl"
-        }
-      ],
-      "trainer": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "K",
-          "email": "d@d.pl"
-        }
-      ]
-    },
-    {
-      "title": "wodeczka",
-      "start_date": "2021-08-06 09:58:11.989790",
-      "localization": "krk",
-      "duration": 3484,
-      "owner": [
-        {
-          "first_name": "Damian",
-          "last_name": "D",
-          "email": "p@p.pl"
-        }
-      ],
-      "trainer": [
-        {
-          "first_name": "Andrzej",
-          "last_name": "Z",
-          "email": "d@d.pl"
+          "email": "a@a.pl"
         }
       ]
     }
